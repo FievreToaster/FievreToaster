@@ -1,3 +1,5 @@
+<img src="profile_banner.png" alt="banner" width="800">
+
 ## Hi there 👋
 
 <!--
