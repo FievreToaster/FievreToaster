@@ -1,4 +1,4 @@
-<img src="profile_banner.png" alt="banner" width="800">
+<img src="Rencontrez Ludovic, Analyste de Données.png" alt="banner" width="800">
 
 ## Hi there 👋
 
