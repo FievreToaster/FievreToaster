@@ -1,4 +1,4 @@
-<img src="Analyse nocturne dans la ville.png" alt="banner" width="800">
+<img src="Rencontrez Ludovic, Analyste de Données.png" alt="banner" width="800">
 
 # 👋 Salut, moi c’est Ludovic !
 🎯 IT & Data Analytics  
